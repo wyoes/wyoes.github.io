@@ -1,2 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brad's Portfolio</title><link>http://example.org/</link><description>Recent content on Brad's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>http://example.org/contact/</link><pubDate>Tue, 28 Mar 2023 05:39:38 -0500</pubDate><guid>http://example.org/contact/</guid><description>Email to: byoes@hotmail.com</description></item><item><title>Resume</title><link>http://example.org/resume/</link><pubDate>Tue, 28 Mar 2023 05:35:31 -0500</pubDate><guid>http://example.org/resume/</guid><description>This is my resume:
-IBM - Migration Engineer Sector7 - Migration Engineer Ontra - Developer Lead / IT Manager Microsoft - Support Engineer</description></item><item><title>About</title><link>http://example.org/about/</link><pubDate>Tue, 28 Mar 2023 05:22:38 -0500</pubDate><guid>http://example.org/about/</guid><description>This is my About page.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brad&#39;s Portfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Brad&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Tue, 28 Mar 2023 05:39:38 -0500</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Email to: bb@hotmail.com</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Tue, 28 Mar 2023 05:35:31 -0500</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description>This is my resume:
+IBM - Migration Engineer Sector7 - Migration Engineer Ontra - Developer Lead / IT Manager Microsoft - Support Engineer </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Tue, 28 Mar 2023 05:22:38 -0500</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>This is my About page.</description>
+    </item>
+    
+  </channel>
+</rss>
